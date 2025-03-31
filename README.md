@@ -1,4 +1,4 @@
-# Mini Projet avec Vite & Tailwind CSS
+# Mini Projet Tailwind CSS
 
 ## Description
 
