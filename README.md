@@ -7,7 +7,7 @@ Un projet minimaliste utilisant Vite et Tailwind CSS pour un développement rapi
 ## Prérequis
 
 - [Node.js](https://nodejs.org/) (Version recommandée : 18+)
-- [Yarn](https://yarnpkg.com/) ou npm
+- npm
 
 ## Installation
 
@@ -40,4 +40,4 @@ npm run build
 ## Technologies utilisées
 
 - Tailwind CSS
-- HTML/
+- HTML
