@@ -2,7 +2,7 @@
 
 ## Description
 
-Un projet minimaliste utilisant Vite et Tailwind CSS pour un développement rapide et efficace.
+Un projet minimaliste utilisant HTML, JS et Tailwind CSS pour un développement rapide et efficace.
 
 ## Prérequis
 
